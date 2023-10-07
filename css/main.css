@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 40px;
+    font-weight: 500;
+
+}
+
+/* _________________________________________________ */
+/* Định dạng header */
+#header {
+    background-color: #FFFFFF;
+    color: #4682A9;
+    text-align: center;
+    padding: 20px;  
+}
+
+#header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#header-text {
+
+}
+
+/* ___________________________________________________ */
+
+/* class thanh điều hướng */
+#nav {
+    overflow: hidden;
+    background-color: #4682A9;
+
+}
+
+/* link điều hướng */
+#nav a {
+    float: right;
+    display: block;
+    color: #F6F4EB;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Thay đổi màu liên kết khi di chuột qua */
+#nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* ___________________________________________________ */
+#sideBar {
+    width: 20%;
+    float: left;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+
+/* ___________________________________________________ */
+#content {
+    width: 60%;
+    float: left;
+    padding: 20px;
+}
+
+/* ___________________________________________________ */
+#footer {
+    background-color: #e9d8f4;
+    color: #58257b;
+    clear: both;
+    text-align: center;
+    padding: 20px;
+}
