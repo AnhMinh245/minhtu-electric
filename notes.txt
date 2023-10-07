@@ -1,0 +1,10 @@
+1. Fonts
+    Alfa Slab One : https://fonts.google.com/specimen/Alfa+Slab+One
+    Gentium Book Plus: https://fonts.google.com/specimen/Gentium+Book+Plus?query=Gent
+2. Logo
+    2.1 Palette
+    Business Name, Slogan: #233565
+    Icon: #8BD8BC
+    Background: #FFFFFF
+
+
